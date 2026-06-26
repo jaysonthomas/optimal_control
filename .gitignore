@@ -319,3 +319,6 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+ros2_control_demos/
+commit.txt
